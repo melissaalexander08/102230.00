@@ -1,749 +1,397 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2897" height="1996">style="background-color:rgb(none)">
-<line x1="1200" y1="1948" x2="1200" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="1200" y1="1166" x2="2827" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2827" y1="1166" x2="2827" y2="402" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2827" y1="402" x2="2816" y2="402" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2816" y1="402" x2="2816" y2="47" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2816" y1="47" x2="2595" y2="47" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2595" y1="47" x2="2595" y2="261" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2595" y1="261" x2="112" y2="261" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="112" y1="261" x2="112" y2="402" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="112" y1="402" x2="68" y2="402" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="68" y1="402" x2="68" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="68" y1="1166" x2="717" y2="1166" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="717" y1="1166" x2="717" y2="1948" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="717" y1="1948" x2="1200" y2="1948" stroke-width="3.0" stroke="rgb(0,0,0)" />
-<line x1="2807" y1="398" x2="2816" y2="398" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2816" y1="399" x2="2807" y2="399" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2816" y1="315" x2="2816" y2="398" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2813" y1="398" x2="2813" y2="315" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="911" y1="1948" x2="779" y2="1948" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="779" y1="1945" x2="911" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1188" y1="1402" x2="1188" y2="1418" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1181" y1="1402" x2="1188" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1181" y1="1418" x2="1181" y2="1409" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1192" y1="1418" x2="1192" y2="1426" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1181" y1="1426" x2="1181" y2="1418" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1192" y1="1426" x2="1181" y2="1426" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="786" x2="2827" y2="981" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="981" x2="2821" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="591" x2="68" y2="402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="591" x2="68" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="408" x2="74" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="981" x2="74" y2="1160" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="1166" x2="68" y2="981" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2595" y1="98" x2="2595" y2="47" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2598" y1="50" x2="2598" y2="98" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="981" x2="68" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="981" x2="68" y2="981" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="786" x2="74" y2="981" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="786" x2="74" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="96" y1="408" x2="74" y2="408" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="402" x2="96" y2="402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="591" x2="74" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="68" y1="786" x2="68" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="786" x2="68" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="591" x2="74" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1155" y1="1402" x2="1181" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1155" y1="1409" x2="1155" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1181" y1="1409" x2="1155" y2="1409" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1004" y1="1402" x2="1079" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1004" y1="1409" x2="1004" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1079" y1="1409" x2="1004" y2="1409" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1079" y1="1402" x2="1079" y2="1409" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1204" y1="1156" x2="1204" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1203" y1="1166" x2="1203" y2="1156" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="114" y1="262" x2="2551" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2551" y1="274" x2="126" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2551" y1="262" x2="2551" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2591" y1="262" x2="2599" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2591" y1="274" x2="2591" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2606" y1="274" x2="2591" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2606" y1="262" x2="2606" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="114" y1="480" x2="114" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="126" y1="480" x2="114" y2="480" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="126" y1="274" x2="126" y2="480" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="82" y1="1157" x2="82" y2="480" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="89" y1="487" x2="89" y2="1150" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2599" y1="262" x2="2599" y2="58" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2606" y1="58" x2="2606" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2599" y1="51" x2="2781" y2="51" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2599" y1="58" x2="2599" y2="51" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2781" y1="58" x2="2606" y2="58" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2781" y1="51" x2="2781" y2="58" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2259" y1="261" x2="2551" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2551" y1="262" x2="2259" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1537" y1="262" x2="1179" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1179" y1="261" x2="1537" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1177" y1="262" x2="819" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="819" y1="261" x2="1177" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="457" y1="262" x2="137" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="137" y1="261" x2="457" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2799" y1="1160" x2="2821" y2="1160" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="1166" x2="2799" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="402" x2="2827" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="591" x2="2821" y2="408" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1161" x2="720" y2="1362" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="717" y1="1362" x2="717" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1542" x2="720" y2="1722" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="717" y1="1722" x2="717" y2="1542" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1945" x2="778" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="778" y1="1948" x2="717" y2="1948" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1031" y1="1948" x2="911" y2="1948" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="911" y1="1945" x2="1031" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1200" y1="1602" x2="1200" y2="1662" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1662" x2="1197" y2="1602" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1602" x2="1197" y2="1422" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1200" y1="1422" x2="1200" y2="1602" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2595" y1="265" x2="2595" y2="98" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2598" y1="98" x2="2598" y2="265" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="100" y1="1156" x2="100" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="99" y1="1166" x2="99" y2="1156" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="569" y1="1161" x2="714" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="714" y1="1164" x2="569" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="208" y1="1164" x2="100" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="100" y1="1161" x2="208" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="568" y1="1164" x2="389" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="389" y1="1161" x2="568" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2796" y1="1156" x2="2796" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2796" y1="1166" x2="2796" y2="1156" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1295" y1="1164" x2="1204" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1204" y1="1161" x2="1295" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1475" y1="1164" x2="1296" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1296" y1="1161" x2="1475" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2555" y1="1164" x2="2376" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2376" y1="1161" x2="2555" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2796" y1="1164" x2="2556" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2556" y1="1161" x2="2796" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="114" y1="405" x2="99" y2="405" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="99" y1="404" x2="114" y2="404" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="137" y1="262" x2="114" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="261" x2="137" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2257" y1="262" x2="1899" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1899" y1="261" x2="2257" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1897" y1="262" x2="1539" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1539" y1="261" x2="1897" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="817" y1="262" x2="459" y2="262" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="459" y1="261" x2="817" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="114" y1="286" x2="114" y2="403" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="403" x2="112" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2813" y1="411" x2="2805" y2="411" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2813" y1="142" x2="2813" y2="411" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2805" y1="142" x2="2813" y2="142" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2805" y1="411" x2="2805" y2="142" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="1160" x2="2821" y2="981" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="981" x2="2827" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="717" y1="1902" x2="717" y2="1722" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1722" x2="720" y2="1902" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1200" y1="1242" x2="1200" y2="1422" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1422" x2="1197" y2="1242" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1242" x2="1197" y2="1165" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1200" y1="1165" x2="1200" y2="1242" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="388" y1="1164" x2="209" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="209" y1="1161" x2="388" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1655" y1="1164" x2="1476" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1476" y1="1161" x2="1655" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2816" y1="142" x2="2816" y2="314" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2813" y1="314" x2="2813" y2="142" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2595" y1="47" x2="2781" y2="47" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2781" y1="50" x2="2598" y2="50" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2605" y1="124" x2="2662" y2="124" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2605" y1="131" x2="2605" y2="124" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2683" y1="131" x2="2605" y2="131" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2669" y1="124" x2="2689" y2="124" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2643" y1="308" x2="2643" y2="247" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2650" y1="308" x2="2643" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2650" y1="254" x2="2650" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="591" x2="2827" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="591" x2="2827" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="786" x2="2821" y2="591" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2827" y1="786" x2="2821" y2="786" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2808" y1="143" x2="2788" y2="143" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2783" y1="138" x2="2808" y2="138" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2788" y1="143" x2="2788" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2783" y1="308" x2="2783" y2="138" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="74" y1="1160" x2="96" y2="1160" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="96" y1="1166" x2="68" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="777" y1="1945" x2="721" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="728" y1="1937" x2="777" y2="1937" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1189" y1="1152" x2="1197" y2="1152" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1189" y1="1662" x2="1189" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1662" x2="1189" y2="1662" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1161" x2="1197" y2="1662" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="721" y1="1945" x2="721" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="728" y1="1153" x2="728" y2="1937" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="721" y1="1153" x2="728" y2="1153" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1031" y1="1945" x2="777" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1031" y1="1937" x2="1031" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="777" y1="1937" x2="1031" y2="1937" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="721" y1="1161" x2="100" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="100" y1="1153" x2="721" y2="1153" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="100" y1="1157" x2="82" y2="1157" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="89" y1="1150" x2="100" y2="1150" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2796" y1="1150" x2="2807" y2="1150" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1197" y1="1153" x2="2796" y2="1153" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1189" y1="1161" x2="1189" y2="1153" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="1161" x2="1197" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2815" y1="1153" x2="2821" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="125" y1="480" x2="125" y2="487" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="82" y1="480" x2="125" y2="480" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="125" y1="487" x2="89" y2="487" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2805" y1="418" x2="2805" y2="411" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2805" y1="411" x2="2814" y2="411" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="114" y1="262" x2="114" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="286" x2="112" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2643" y1="247" x2="2683" y2="247" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2689" y1="254" x2="2650" y2="254" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2669" y1="80" x2="2669" y2="124" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2662" y1="124" x2="2662" y2="80" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2785" y1="80" x2="2669" y2="80" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2785" y1="73" x2="2785" y2="80" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2605" y1="73" x2="2785" y2="73" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2612" y1="80" x2="2605" y2="73" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2662" y1="80" x2="2612" y2="80" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2683" y1="247" x2="2683" y2="131" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2689" y1="124" x2="2689" y2="254" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2807" y1="1150" x2="2807" y2="418" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2814" y1="411" x2="2814" y2="1153" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2813" y1="402" x2="2827" y2="402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2821" y1="408" x2="2813" y2="408" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1919" x2="760" y2="1919" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1911" x2="999" y2="1919" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="767" y1="1911" x2="999" y2="1911" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="930" y1="1775" x2="937" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="930" y1="1810" x2="930" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="937" y1="1775" x2="937" y2="1817" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="819" y1="1810" x2="930" y2="1810" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="811" y1="1817" x2="811" y2="1810" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="937" y1="1817" x2="811" y2="1817" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="819" y1="1775" x2="819" y2="1810" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="811" y1="1775" x2="819" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="811" y1="1810" x2="811" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="767" y1="1774" x2="767" y2="1911" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="760" y1="1774" x2="767" y2="1774" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="760" y1="1919" x2="760" y2="1774" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="730" y1="1770" x2="750" y2="1770" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="730" y1="1778" x2="730" y2="1770" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="750" y1="1778" x2="730" y2="1778" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1028" y1="1940" x2="1028" y2="1915" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1034" y1="1940" x2="1028" y2="1940" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1034" y1="1911" x2="1034" y2="1940" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1028" y1="1911" x2="1034" y2="1911" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1028" y1="1915" x2="999" y2="1915" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1006" y1="1911" x2="1028" y2="1911" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1796" x2="999" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1003" y1="1770" x2="1003" y2="1796" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1867" x2="999" y2="1796" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1006" y1="1867" x2="999" y2="1867" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1006" y1="1796" x2="1006" y2="1867" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1907" x2="1006" y2="1907" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="774" y1="1774" x2="750" y2="1774" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="750" y1="1770" x2="774" y2="1770" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1775" x2="774" y2="1775" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="774" y1="1770" x2="999" y2="1770" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="717" y1="1542" x2="717" y2="1362" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1362" x2="720" y2="1542" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="720" y1="1902" x2="720" y2="1945" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="717" y1="1948" x2="717" y2="1902" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="920" y1="1402" x2="1004" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="854" y1="1402" x2="915" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1407" x2="854" y2="1407" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1543" x2="999" y2="1407" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1004" y1="1407" x2="1004" y2="1543" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1004" y1="1607" x2="1004" y2="1657" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="999" y1="1651" x2="999" y2="1607" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="714" y1="1156" x2="714" y2="1166" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="714" y1="1166" x2="714" y2="1156" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1835" y1="1164" x2="1656" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1656" y1="1161" x2="1835" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2015" y1="1164" x2="1836" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1836" y1="1161" x2="2015" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2195" y1="1164" x2="2016" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2016" y1="1161" x2="2195" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2375" y1="1164" x2="2196" y2="1164" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2196" y1="1161" x2="2375" y2="1161" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2654" y1="315" x2="2599" y2="315" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2654" y1="308" x2="2654" y2="315" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2605" y1="308" x2="2654" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2807" y1="315" x2="2694" y2="315" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2807" y1="308" x2="2807" y2="315" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2694" y1="308" x2="2807" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2694" y1="315" x2="2694" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2599" y1="274" x2="2605" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2599" y1="315" x2="2599" y2="274" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2605" y1="274" x2="2605" y2="308" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="854" y1="1358" x2="915" y2="1358" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="915" y1="1363" x2="854" y2="1363" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="854" y1="1327" x2="854" y2="1651" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="849" y1="1651" x2="849" y2="1327" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="730" y1="1322" x2="920" y2="1322" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="915" y1="1327" x2="730" y2="1327" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="920" y1="1322" x2="920" y2="1402" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="915" y1="1358" x2="915" y2="1327" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="915" y1="1402" x2="915" y2="1363" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="730" y1="1651" x2="999" y2="1651" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1004" y1="1657" x2="730" y2="1657" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="403" x2="99" y2="403" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="83" y1="408" x2="83" y2="480" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="90" y1="480" x2="90" y2="408" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="261" x2="112" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="137" y1="261" x2="112" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2551" y1="261" x2="2259" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2257" y1="261" x2="1899" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1897" y1="261" x2="1539" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1537" y1="261" x2="1179" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1177" y1="261" x2="819" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="817" y1="261" x2="459" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="457" y1="261" x2="137" y2="261" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="112" y1="286" x2="112" y2="403" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="767" y1="1796" x2="811" y2="1796" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="811" y1="1790" x2="767" y2="1790" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="2649" y1="60" x2="2643" y2="60" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="873" y1="1364" x2="915" y2="1364" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="915" y1="1357" x2="873" y2="1357" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="828" y1="1775" x2="828" y2="1676" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="828" y1="1676" x2="1090" y2="1676" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1090" y1="1676" x2="1090" y2="1847" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1090" y1="1847" x2="1006" y2="1847" stroke-width="1.0" stroke="rgb(125,125,125)" />
-<line x1="1117" y1="1410" x2="1117" y2="1416" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1117" y1="1416" x2="1115" y2="1422" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1115" y1="1422" x2="1113" y2="1428" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1113" y1="1428" x2="1109" y2="1433" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1109" y1="1433" x2="1105" y2="1438" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1105" y1="1438" x2="1099" y2="1441" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1099" y1="1441" x2="1094" y2="1444" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1094" y1="1444" x2="1088" y2="1445" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1088" y1="1445" x2="1081" y2="1446" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1117" y1="1410" x2="1118" y2="1416" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1118" y1="1416" x2="1120" y2="1422" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1120" y1="1422" x2="1122" y2="1428" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1122" y1="1428" x2="1126" y2="1433" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1126" y1="1433" x2="1130" y2="1438" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1130" y1="1438" x2="1135" y2="1441" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1135" y1="1441" x2="1141" y2="1444" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1141" y1="1444" x2="1147" y2="1445" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1147" y1="1445" x2="1153" y2="1446" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2553" y1="260" x2="2554" y2="254" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2554" y1="254" x2="2556" y2="248" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2556" y1="248" x2="2558" y2="242" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2558" y1="242" x2="2562" y2="237" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2562" y1="237" x2="2566" y2="233" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2566" y1="233" x2="2571" y2="229" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2571" y1="229" x2="2577" y2="227" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2577" y1="227" x2="2583" y2="225" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2583" y1="225" x2="2589" y2="224" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2692" y1="308" x2="2691" y2="302" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2691" y1="302" x2="2690" y2="296" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2690" y1="296" x2="2687" y2="290" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2687" y1="290" x2="2683" y2="285" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2683" y1="285" x2="2679" y2="280" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2679" y1="280" x2="2674" y2="277" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2674" y1="277" x2="2668" y2="274" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2668" y1="274" x2="2662" y2="273" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2662" y1="273" x2="2656" y2="272" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="999" y1="1869" x2="993" y2="1870" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="993" y1="1870" x2="987" y2="1872" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="987" y1="1872" x2="981" y2="1874" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="981" y1="1874" x2="976" y2="1878" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="976" y1="1878" x2="971" y2="1882" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="971" y1="1882" x2="968" y2="1887" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="968" y1="1887" x2="965" y2="1893" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="965" y1="1893" x2="963" y2="1899" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="963" y1="1899" x2="963" y2="1905" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2815" y1="140" x2="2815" y2="82" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2816" y1="82" x2="2816" y2="140" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2814" y1="49" x2="2783" y2="49" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2783" y1="48" x2="2814" y2="48" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2815" y1="81" x2="2815" y2="50" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2816" y1="50" x2="2816" y2="81" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1198" y1="1945" x2="1198" y2="1902" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1199" y1="1902" x2="1199" y2="1945" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1151" y1="1946" x2="1197" y2="1946" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1197" y1="1947" x2="1151" y2="1947" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1151" y1="1947" x2="1091" y2="1947" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1091" y1="1946" x2="1151" y2="1946" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1033" y1="1946" x2="1091" y2="1946" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1091" y1="1947" x2="1033" y2="1947" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1199" y1="1842" x2="1199" y2="1902" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1198" y1="1902" x2="1198" y2="1842" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1199" y1="1782" x2="1199" y2="1842" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1198" y1="1842" x2="1198" y2="1782" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1198" y1="1782" x2="1198" y2="1722" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1199" y1="1722" x2="1199" y2="1782" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1199" y1="1664" x2="1199" y2="1722" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1198" y1="1722" x2="1198" y2="1664" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1083" y1="1410" x2="1083" y2="1446" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1081" y1="1410" x2="1081" y2="1446" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1152" y1="1446" x2="1152" y2="1410" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1153" y1="1446" x2="1153" y2="1410" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2588" y1="260" x2="2588" y2="224" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2589" y1="260" x2="2589" y2="224" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2657" y1="308" x2="2657" y2="272" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2656" y1="308" x2="2656" y2="272" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="999" y1="1904" x2="963" y2="1904" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="999" y1="1905" x2="963" y2="1905" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="997" y1="1608" x2="997" y2="1576" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="998" y1="1576" x2="998" y2="1608" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="997" y1="1542" x2="997" y2="1576" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="998" y1="1576" x2="998" y2="1542" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="998" y1="1545" x2="1005" y2="1545" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1005" y1="1543" x2="998" y2="1543" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="998" y1="1605" x2="1005" y2="1605" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="1005" y1="1607" x2="998" y2="1607" stroke-width="1.0" stroke="rgb(150,150,150)" />
-<line x1="2432" y1="805" x2="2288" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2288" y1="805" x2="2432" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1224" y1="509" x2="1424" y2="418" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1224" y1="418" x2="1424" y2="509" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="464" y1="522" x2="608" y2="804" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="464" y1="804" x2="608" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="825" y1="1818" x2="825" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="805" y1="1818" x2="825" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="805" y1="1862" x2="805" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="825" y1="1862" x2="805" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="143" x2="2690" y2="143" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="122" x2="2734" y2="143" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="122" x2="2734" y2="122" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="143" x2="2690" y2="122" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="999" y1="1420" x2="992" y2="1420" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="761" y1="1467" x2="761" y2="1489" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1467" x2="762" y2="1489" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1578" x2="762" y2="1599" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="763" y1="1578" x2="763" y2="1599" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="92" y1="417" x2="114" y2="417" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="114" y1="409" x2="98" y2="409" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="127" y1="417" x2="127" y2="274" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="92" y1="408" x2="92" y2="417" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="100" y1="1152" x2="609" y2="1152" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="1125" x2="78" y2="1150" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="1087" x2="78" y2="1123" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="1027" x2="78" y2="1085" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="967" x2="78" y2="1025" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="907" x2="78" y2="965" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="847" x2="78" y2="905" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="787" x2="78" y2="845" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="727" x2="78" y2="785" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="667" x2="78" y2="725" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="607" x2="78" y2="665" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="547" x2="78" y2="605" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="487" x2="78" y2="545" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="445" x2="78" y2="485" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="78" y1="418" x2="78" y2="443" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2804" y1="138" x2="2804" y2="60" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2804" y1="60" x2="2606" y2="60" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2804" y1="308" x2="2804" y2="143" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2804" y1="411" x2="2804" y2="315" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="443" x2="2818" y2="418" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="485" x2="2818" y2="445" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="545" x2="2818" y2="487" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="605" x2="2818" y2="547" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="665" x2="2818" y2="607" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="725" x2="2818" y2="667" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="785" x2="2818" y2="727" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="845" x2="2818" y2="787" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="905" x2="2818" y2="847" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="965" x2="2818" y2="907" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="1025" x2="2818" y2="967" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="1085" x2="2818" y2="1027" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="1123" x2="2818" y2="1087" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2818" y1="1150" x2="2818" y2="1125" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1188" y1="1418" x2="1188" y2="1152" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1188" y1="1152" x2="2796" y2="1152" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1034" y1="1936" x2="1188" y2="1936" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1188" y1="1936" x2="1188" y2="1426" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="766" y1="1936" x2="1028" y2="1936" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1224" y1="509" x2="1224" y2="418" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1224" y1="418" x2="1424" y2="418" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1424" y1="418" x2="1424" y2="509" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="1424" y1="509" x2="1224" y2="509" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2288" y1="805" x2="2288" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2288" y1="522" x2="2432" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2432" y1="522" x2="2432" y2="805" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2432" y1="805" x2="2288" y2="805" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="464" y1="804" x2="464" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="464" y1="522" x2="608" y2="522" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="608" y1="522" x2="608" y2="804" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="608" y1="804" x2="464" y2="804" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="999" y1="1545" x2="999" y2="1605" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="873" y1="1526" x2="873" y2="1407" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="873" y1="1651" x2="873" y2="1532" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="754" y1="1431" x2="754" y2="1327" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="754" y1="1541" x2="754" y2="1437" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="754" y1="1651" x2="754" y2="1547" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1309" x2="769" y2="1155" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1155" x2="895" y2="1155" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="895" y1="1155" x2="895" y2="1309" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="895" y1="1309" x2="769" y2="1309" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="873" y1="1358" x2="873" y2="1327" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="915" y1="1393" x2="873" y2="1393" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="873" y1="1393" x2="873" y2="1363" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="925" y1="1817" x2="925" y2="1911" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="819" y1="1786" x2="925" y2="1786" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="925" y1="1786" x2="925" y2="1810" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="767" y1="1786" x2="811" y2="1786" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2784" y1="60" x2="2803" y2="60" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2787" y1="124" x2="2787" y2="132" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2803" y1="60" x2="2803" y2="97" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2784" y1="97" x2="2803" y2="97" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2787" y1="124" x2="2801" y2="124" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2787" y1="132" x2="2801" y2="132" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2801" y1="124" x2="2801" y2="132" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2783" y1="243" x2="2689" y2="243" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2784" y1="80" x2="2784" y2="138" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="836" y1="1862" x2="836" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="836" y1="1818" x2="836" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="847" y1="1818" x2="847" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="847" y1="1862" x2="847" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="858" y1="1862" x2="858" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="858" y1="1818" x2="858" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="869" y1="1862" x2="869" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="869" y1="1818" x2="869" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="880" y1="1862" x2="880" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="880" y1="1818" x2="880" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="891" y1="1862" x2="891" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="891" y1="1818" x2="891" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="836" y1="1862" x2="825" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="847" y1="1862" x2="836" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="858" y1="1862" x2="847" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="869" y1="1862" x2="858" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="880" y1="1862" x2="869" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="891" y1="1862" x2="880" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="902" y1="1862" x2="891" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="913" y1="1862" x2="902" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="924" y1="1862" x2="913" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="869" y1="1818" x2="858" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="880" y1="1818" x2="869" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="891" y1="1818" x2="880" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="902" y1="1818" x2="891" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="913" y1="1818" x2="902" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="924" y1="1818" x2="913" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="902" y1="1862" x2="902" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="902" y1="1818" x2="902" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="913" y1="1818" x2="913" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="913" y1="1862" x2="913" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="924" y1="1818" x2="924" y2="1862" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="924" y1="1862" x2="924" y2="1818" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="925" y1="1866" x2="925" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="925" y1="1910" x2="925" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="923" y1="1866" x2="923" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="923" y1="1910" x2="923" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="912" y1="1866" x2="912" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="912" y1="1910" x2="912" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="901" y1="1866" x2="901" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="901" y1="1910" x2="901" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="890" y1="1910" x2="890" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="890" y1="1866" x2="890" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1910" x2="879" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1866" x2="879" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="868" y1="1910" x2="868" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="868" y1="1866" x2="868" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="857" y1="1866" x2="857" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="857" y1="1910" x2="857" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="846" y1="1866" x2="846" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="846" y1="1910" x2="846" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="912" y1="1866" x2="923" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="901" y1="1866" x2="912" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="890" y1="1866" x2="901" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1866" x2="890" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="868" y1="1866" x2="879" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="857" y1="1866" x2="868" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="846" y1="1866" x2="857" y2="1866" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="912" y1="1910" x2="923" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="901" y1="1910" x2="912" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="890" y1="1910" x2="901" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1910" x2="890" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="868" y1="1910" x2="879" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="857" y1="1910" x2="868" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="846" y1="1910" x2="857" y2="1910" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="154" x2="2734" y2="154" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="154" x2="2690" y2="154" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="165" x2="2690" y2="165" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="165" x2="2734" y2="165" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="176" x2="2690" y2="176" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="176" x2="2734" y2="176" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="187" x2="2690" y2="187" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="187" x2="2734" y2="187" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="198" x2="2690" y2="198" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="198" x2="2734" y2="198" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="209" x2="2690" y2="209" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="209" x2="2734" y2="209" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="220" x2="2734" y2="220" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="220" x2="2690" y2="220" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="231" x2="2690" y2="231" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="231" x2="2734" y2="231" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="242" x2="2734" y2="242" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="242" x2="2690" y2="242" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="154" x2="2690" y2="143" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="165" x2="2690" y2="154" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="176" x2="2690" y2="165" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="187" x2="2690" y2="176" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="198" x2="2690" y2="187" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="209" x2="2690" y2="198" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="220" x2="2690" y2="209" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="231" x2="2690" y2="220" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2690" y1="242" x2="2690" y2="231" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="154" x2="2734" y2="143" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="165" x2="2734" y2="154" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="176" x2="2734" y2="165" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="187" x2="2734" y2="176" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="198" x2="2734" y2="187" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="209" x2="2734" y2="198" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="220" x2="2734" y2="209" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="231" x2="2734" y2="220" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2734" y1="242" x2="2734" y2="231" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="241" x2="2738" y2="241" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="241" x2="2782" y2="241" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="243" x2="2782" y2="243" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="243" x2="2738" y2="243" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="230" x2="2782" y2="230" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="230" x2="2738" y2="230" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="219" x2="2782" y2="219" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="219" x2="2738" y2="219" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="208" x2="2738" y2="208" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="208" x2="2782" y2="208" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="197" x2="2782" y2="197" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="197" x2="2738" y2="197" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="186" x2="2738" y2="186" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="186" x2="2782" y2="186" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="175" x2="2782" y2="175" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="175" x2="2738" y2="175" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="164" x2="2738" y2="164" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="164" x2="2782" y2="164" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="230" x2="2782" y2="241" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="219" x2="2782" y2="230" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="208" x2="2782" y2="219" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="197" x2="2782" y2="208" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="186" x2="2782" y2="197" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="175" x2="2782" y2="186" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2782" y1="164" x2="2782" y2="175" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="230" x2="2738" y2="241" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="219" x2="2738" y2="230" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="208" x2="2738" y2="219" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="197" x2="2738" y2="208" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="186" x2="2738" y2="197" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="175" x2="2738" y2="186" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="2738" y1="164" x2="2738" y2="175" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="992" y1="1515" x2="992" y2="1420" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="999" y1="1515" x2="992" y2="1515" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1413" x2="932" y2="1413" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1423" x2="932" y2="1423" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="950" y1="1488" x2="950" y2="1464" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="944" y1="1488" x2="944" y2="1464" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="944" y1="1464" x2="950" y2="1464" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="932" y1="1413" x2="932" y2="1423" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1413" x2="904" y2="1423" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="947" y1="1427" x2="947" y2="1435" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="918" y1="1415" x2="918" y2="1422" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1434" x2="981" y2="1453" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="986" y1="1484" x2="986" y2="1454" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="988" y1="1454" x2="988" y2="1484" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1434" x2="981" y2="1434" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="899" y1="1418" x2="937" y2="1418" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="877" y1="1432" x2="991" y2="1432" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1513" x2="988" y2="1513" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="989" y1="1483" x2="989" y2="1514" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="988" y1="1514" x2="988" y2="1483" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="991" y1="1432" x2="991" y2="1516" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="947" y1="1517" x2="947" y2="1433" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1514" x2="879" y2="1434" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="877" y1="1516" x2="877" y2="1432" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1514" x2="879" y2="1514" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="991" y1="1516" x2="877" y2="1516" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1646" x2="932" y2="1646" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1636" x2="932" y2="1636" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="950" y1="1561" x2="950" y2="1585" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="944" y1="1561" x2="944" y2="1585" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="944" y1="1585" x2="950" y2="1585" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="932" y1="1646" x2="932" y2="1636" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="904" y1="1646" x2="904" y2="1636" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1624" x2="981" y2="1605" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="986" y1="1575" x2="986" y2="1606" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="988" y1="1606" x2="988" y2="1575" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1624" x2="981" y2="1624" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="897" y1="1641" x2="938" y2="1641" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="877" y1="1626" x2="991" y2="1626" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1545" x2="988" y2="1545" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="999" y1="1533" x2="991" y2="1533" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="989" y1="1576" x2="989" y2="1545" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="988" y1="1545" x2="988" y2="1576" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="991" y1="1626" x2="991" y2="1542" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="991" y1="1533" x2="991" y2="1651" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="947" y1="1542" x2="947" y2="1626" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="879" y1="1544" x2="879" y2="1624" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="877" y1="1542" x2="877" y2="1626" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="981" y1="1544" x2="879" y2="1544" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="991" y1="1542" x2="877" y2="1542" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1336" x2="760" y2="1336" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1400" x2="769" y2="1400" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1358" x2="769" y2="1358" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1337" x2="762" y2="1358" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1339" x2="769" y2="1358" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1357" x2="762" y2="1379" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="761" y1="1357" x2="761" y2="1379" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1337" x2="835" y2="1421" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1339" x2="769" y2="1339" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1337" x2="762" y2="1337" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1419" x2="769" y2="1419" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1422" x2="760" y2="1422" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1400" x2="762" y2="1421" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1400" x2="769" y2="1419" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="761" y1="1379" x2="761" y2="1401" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1379" x2="762" y2="1401" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="760" y1="1336" x2="760" y2="1422" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1359" x2="841" y2="1399" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1359" x2="849" y2="1359" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="849" y1="1399" x2="841" y2="1399" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1339" x2="833" y2="1419" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1421" x2="762" y2="1421" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1447" x2="760" y2="1447" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1510" x2="769" y2="1510" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1468" x2="769" y2="1468" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1447" x2="762" y2="1468" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1449" x2="769" y2="1468" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1447" x2="835" y2="1531" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1449" x2="769" y2="1449" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1447" x2="762" y2="1447" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1529" x2="769" y2="1529" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1532" x2="760" y2="1532" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1510" x2="762" y2="1531" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1510" x2="769" y2="1529" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="761" y1="1489" x2="761" y2="1511" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1489" x2="762" y2="1511" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="760" y1="1447" x2="760" y2="1532" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1469" x2="841" y2="1509" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1469" x2="849" y2="1469" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="849" y1="1509" x2="841" y2="1509" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1449" x2="833" y2="1529" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1531" x2="762" y2="1531" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1557" x2="760" y2="1557" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="763" y1="1557" x2="763" y2="1578" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1559" x2="769" y2="1578" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1557" x2="835" y2="1641" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1559" x2="769" y2="1559" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1557" x2="763" y2="1557" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1639" x2="769" y2="1639" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="835" y1="1641" x2="763" y2="1641" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1642" x2="760" y2="1642" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="763" y1="1620" x2="763" y2="1641" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="769" y1="1620" x2="769" y2="1639" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="762" y1="1599" x2="762" y2="1621" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="763" y1="1599" x2="763" y2="1621" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="760" y1="1557" x2="760" y2="1642" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1579" x2="841" y2="1619" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="841" y1="1579" x2="849" y2="1579" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="849" y1="1619" x2="841" y2="1619" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<line x1="833" y1="1559" x2="833" y2="1639" stroke-width="1.0" stroke="rgb(225,225,225)" />
-<polygon id="BRDW08_BR-800" points="126,274 126,486 89,486 89,804 464,804 464,522 1224,522 1224,418 1424,418 1424,509 2288,509 2288,522 2432,522 2432,805 2288,805 2288,509 1224,509 1224,522 608,522 608,804 89,804 89,1153 728,1153 728,1322 920,1322 920,1402 1189,1402 1189,1153 2807,1153 2807,411 2804,411 2804,315 2599,315 2599,274" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-1.008" points="854,1657 728,1657 728,1544 854,1544" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-2.008" points="854,1544 728,1544 728,1434 854,1434" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-3.008" points="854,1434 728,1434 728,1322 854,1322" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-24.008" points="854,1360 920,1360 920,1402 854,1402" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-5.008" points="1004,1402 854,1402 854,1529 1004,1529" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-4.008" points="1004,1529 854,1529 854,1657 1004,1657" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-23.008" points="920,1360 854,1360 854,1322 920,1322" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-11.008" points="728,1770 728,1937 1034,1937 1034,1911 1006,1911 1006,1796 1003,1796 1003,1770" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-12.008" points="2804,60 2606,60 2606,274 2599,274 2599,315 2804,315" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_BR-801" points="1004,1402 1004,1657 728,1657 728,1770 1003,1770 1003,1796 1006,1796 1006,1911 1034,1911 1034,1937 1189,1937 1189,1402" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_?25" points="464,522 608,522 608,804 464,804" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_?51" points="1224,418 1424,418 1424,509 1224,509" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW08_?49" points="2288,522 2432,522 2432,805 2288,805" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3586.7" height="2471.3">style="background-color:rgb(none)">
+<polygon id="BRDW08_?49" points="2633,759 2777,759 2777,1042 2633,1042" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_?51" points="1569,655 1769,655 1769,746 1569,746" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_?25" points="809,759 953,759 953,1041 809,1041" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-801" points="1349,1639 1349,1894 1073,1894 1073,2007 1348,2007 1348,2033 1351,2033 1351,2148 1379,2148 1379,2174 1534,2174 1534,1639" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-12.008" points="3149,297 2951,297 2951,511 2944,511 2944,552 3149,552" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-11.008" points="1073,2007 1073,2174 1379,2174 1379,2148 1351,2148 1351,2033 1348,2033 1348,2007" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-23.008" points="1265,1597 1199,1597 1199,1559 1265,1559" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-4.008" points="1349,1766 1199,1766 1199,1894 1349,1894" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-5.008" points="1349,1639 1199,1639 1199,1766 1349,1766" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-24.008" points="1199,1597 1265,1597 1265,1639 1199,1639" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-3.008" points="1199,1671 1073,1671 1073,1559 1199,1559" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-2.008" points="1199,1781 1073,1781 1073,1671 1199,1671" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-1.008" points="1199,1894 1073,1894 1073,1781 1199,1781" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW08_BR-800" points="471,511 471,723 434,723 434,1041 809,1041 809,759 1569,759 1569,655 1769,655 1769,746 2633,746 2633,759 2777,759 2777,1042 2633,1042 2633,746 1569,746 1569,759 953,759 953,1041 434,1041 434,1390 1073,1390 1073,1559 1265,1559 1265,1639 1534,1639 1534,1390 3152,1390 3152,648 3149,648 3149,552 2944,552 2944,511" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<circle cx="140" cy="2585" r="" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 1226,893 A 11.99,11.99 0 0 1 1226,893" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 1226,856 A 11.99,11.99 0 0 1 1226,856" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<line x1="1107" y1="767" x2="1107" y2="723" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1106" y1="767" x2="1106" y2="723" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1106" y1="877" x2="1106" y2="834" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1107" y1="877" x2="1107" y2="834" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1108" y1="657" x2="1108" y2="613" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1107" y1="657" x2="1107" y2="613" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1789" x2="423" y2="1749" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="693" x2="1292" y2="608" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="717" x2="1292" y2="802" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1333" y1="689" x2="1333" y2="658" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1333" y1="720" x2="1333" y2="751" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1334" y1="658" x2="1334" y2="689" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1334" y1="751" x2="1334" y2="720" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1294" y1="697" x2="1289" y2="697" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1294" y1="712" x2="1289" y2="712" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="697" x2="1292" y2="694" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="712" x2="1292" y2="716" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1242" y1="594" x2="1283" y2="594" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1333" y1="628" x2="1333" y2="659" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1331" y1="659" x2="1331" y2="628" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1283" y1="596" x2="1283" y2="591" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1242" y1="596" x2="1242" y2="591" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1283" y1="813" x2="1283" y2="819" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1242" y1="813" x2="1242" y2="819" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="602" x2="1292" y2="606" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1294" y1="602" x2="1289" y2="602" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1294" y1="807" x2="1289" y2="807" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1244" y1="816" x2="1282" y2="816" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1333" y1="780" x2="1333" y2="750" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1331" y1="750" x2="1331" y2="780" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1263" y1="820" x2="1263" y2="812" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1292" y1="807" x2="1292" y2="799" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1112" y1="448" x2="1156" y2="448" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3129" y1="2154" x2="3129" y2="2096" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3128" y1="1991" x2="3034" y2="1991" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1270" y1="417" x2="1270" y2="323" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1218" y1="877" x2="1218" y2="907" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1099" y1="583" x2="1099" y2="687" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1099" y1="693" x2="1099" y2="797" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1099" y1="803" x2="1099" y2="907" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1218" y1="583" x2="1218" y2="702" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1218" y1="708" x2="1218" y2="827" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1344" y1="689" x2="1344" y2="629" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="1769" y1="1816" x2="1769" y2="1725" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1084" x2="3163" y2="1109" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1791" x2="3163" y2="1817" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1111" x2="3163" y2="1147" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1149" x2="3163" y2="1207" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1209" x2="3163" y2="1267" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1269" x2="3163" y2="1327" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1329" x2="3163" y2="1387" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1389" x2="3163" y2="1447" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1449" x2="3163" y2="1507" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1509" x2="3163" y2="1567" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1569" x2="3163" y2="1627" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1629" x2="3163" y2="1687" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1689" x2="3163" y2="1747" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3163" y1="1749" x2="3163" y2="1789" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="3149" y1="1926" x2="3149" y2="2092" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1817" x2="423" y2="1791" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1109" x2="423" y2="1084" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1747" x2="423" y2="1689" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1687" x2="423" y2="1629" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1627" x2="423" y2="1569" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1567" x2="423" y2="1509" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1507" x2="423" y2="1449" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1447" x2="423" y2="1389" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1387" x2="423" y2="1329" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1327" x2="423" y2="1269" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1267" x2="423" y2="1209" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1207" x2="423" y2="1149" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="423" y1="1147" x2="423" y2="1111" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<line x1="472" y1="1817" x2="472" y2="1960" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<polyline points="1150,372 1150,416 1170,416 1170,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1178,595 1178,675 1114,675 1114,656 1108,656 1108,677 1180,677 1180,593 1108,593 1108,614 1114,614 1114,595" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1178,815 1114,815 1114,834 1107,834 1107,813 1180,813 1180,897 1107,897 1107,876 1114,876 1114,895 1178,895" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2112 3079,2112 3079,2092 3035,2092" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1336,692 1222,692 1222,608 1336,608" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1222,718 1222,802 1336,802 1336,718" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1249,588 1249,599 1277,599 1277,588" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1289,673 1295,673 1295,649 1289,649" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1289,746 1295,746 1295,770 1289,770" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1249,821 1249,811 1277,811 1277,821" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3083,2070 3127,2070" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3127,2059 3083,2059" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3083,2048 3127,2048" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3127,2037 3083,2037" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3083,2026 3127,2026" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3127,2015 3083,2015" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3127,2004 3083,2004" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3127,1991 3083,1991" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3083,1993 3127,1993" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3079,1992 3035,1992" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2003 3079,2003" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3079,2014 3035,2014" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2025 3079,2025" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2036 3079,2036" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2047 3079,2047" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2058 3079,2058" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3035,2069 3079,2069" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3079,2080 3035,2080" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1191,324 1191,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1202,324 1202,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1213,368 1213,324" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1224,368 1224,324" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1235,368 1235,324" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1246,324 1246,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1257,324 1257,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1270,324 1270,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1269,372 1269,416" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1258,372 1258,416" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1247,416 1247,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1236,416 1236,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1225,416 1225,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1214,416 1214,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1203,416 1203,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1192,372 1192,416" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1181,416 1181,372" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3146,2111 3146,2102 3132,2102 3132,2111" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1114,925 1114,1079 1240,1079 1240,925" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1194,615 1188,615 1186,615 1186,654 1188,655 1194,655" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1194,725 1188,725 1186,725 1186,765 1188,765 1194,765" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1194,835 1188,835 1186,836 1186,875 1188,875 1194,875" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1114,678 1108,678 1105,677 1105,593 1108,592 1114,592" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1114,788 1108,788 1105,787 1105,703 1108,702 1114,702" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1114,898 1108,898 1105,898 1105,813 1108,813 1114,813" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="2777,1712 2777,1430 2775,1430 2633,1430 2634,1432 2777,1712 2633,1712" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1569,1725 1569,1816 1769,1725 1569,1725 1571,1726 1769,1816 1569,1816" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="809,1430 809,1712 810,1710 952,1432 953,1430 953,1712" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="953,1430 809,1430 810,1432 952,1710 953,1712 809,1712" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1107,703 1107,724 1113,724 1114,721 1114,705 1175,705 1178,705 1178,785 1114,785 1114,782 1114,766 1107,766 1107,787 1178,787 1180,787 1180,705 1180,703 1107,703" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1326,690 1227,690 1224,690 1224,610 1326,610 1326,626 1327,629 1331,629 1331,627" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1326,720 1227,720 1224,720 1224,799 1226,800 1326,800" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1344,701 1336,701 1336,583" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1326,800 1326,784 1326,781 1331,781 1331,783" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1344,719 1338,719 1337,721 1337,812 1338,814 1344,814" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3149,2096 3149,2174 3146,2175 2951,2175" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3150,1823 3149,1823 3149,1919" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1533,816 1533,1080 1533,1082 3141,1082" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1268,368 1268,324 1268,368 1270,368" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1379,298 1533,298 1533,301 1533,809" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1111,297 1111,298 1373,298" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="445,1082 954,1082 954,1081" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3129,2138 3148,2138 3148,2140 3148,2174" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3129,2175 3131,2174 3148,2174" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1164,448 1270,448 1270,445 1270,424" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1260,841 1221,841 1218,841 1218,871" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="2633,1430 2633,1712 2634,1710 2777,1430" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="437,1827 437,1817 459,1817" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="459,1825 443,1825 443,1827" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1326,689 1332,689 1333,689 1334,690 1336,690" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1326,721 1332,721 1333,720 1334,720 1336,720" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="428,1823 425,1823 423,1823 423,1822 423,1819" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3163,1819 3163,1822 3162,1823 3161,1823 3158,1823" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<circle cx="140" cy="2585" r="" stroke-width="3.0" stroke="rgb(0,0,0)" fill="none" />
+<path d="M 140,2585 A .,. 0 0 0 140,2585" stroke-width="3.0" stroke="rgb(0,0,0)" fill="none" />
+<line x1="140" y1="2585" x2="140" y2="2585" stroke-width="3.0" stroke="rgb(0,0,0)" />
+<polyline points="1545,286 1545,1068 3172,1068 3172,1833 3161,1833 3161,2187 2940,2187 2940,1973 457,1973 457,1833 413,1833 413,1068 1062,1068 1062,286" stroke-width="3.0" stroke="rgb(0,0,0)" fill="none" />
+<circle cx="140" cy="2585" r="" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<path d="M 140,2585 A .,. 0 0 0 140,2585" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<line x1="1545" y1="572" x2="1545" y2="632" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1542" y1="632" x2="1542" y2="572" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1260" y1="878" x2="1218" y2="878" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1218" y1="870" x2="1260" y2="870" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1156" y1="444" x2="1112" y2="444" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1112" y1="438" x2="1156" y2="438" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="435" y1="1754" x2="435" y2="1827" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="428" y1="1827" x2="428" y2="1754" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2541" y1="1073" x2="2720" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2720" y1="1070" x2="2541" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2361" y1="1073" x2="2540" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2540" y1="1070" x2="2361" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2181" y1="1073" x2="2360" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2360" y1="1070" x2="2181" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2001" y1="1073" x2="2180" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2180" y1="1070" x2="2001" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="872" x2="1065" y2="693" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1062" y1="693" x2="1062" y2="872" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1821" y1="1073" x2="2000" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2000" y1="1070" x2="1821" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="554" y1="1073" x2="733" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="733" y1="1070" x2="554" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1542" y1="813" x2="1542" y2="992" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1545" y1="992" x2="1545" y2="813" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="512" x2="1065" y2="333" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1062" y1="333" x2="1062" y2="512" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2721" y1="1073" x2="2900" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2900" y1="1070" x2="2721" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1641" y1="1073" x2="1820" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1820" y1="1070" x2="1641" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="734" y1="1073" x2="913" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="913" y1="1070" x2="734" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1545" y1="812" x2="1545" y2="633" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1542" y1="633" x2="1542" y2="812" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1062" y1="513" x2="1062" y2="692" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="692" x2="1065" y2="513" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3158" y1="1920" x2="3158" y2="2092" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3161" y1="2092" x2="3161" y2="1920" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1545" y1="1069" x2="1545" y2="993" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1542" y1="993" x2="1542" y2="1069" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2901" y1="1073" x2="3141" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3141" y1="1070" x2="2901" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1549" y1="1073" x2="1640" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1640" y1="1070" x2="1549" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="445" y1="1073" x2="553" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="553" y1="1070" x2="445" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1059" y1="1070" x2="914" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="914" y1="1073" x2="1059" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1256" y1="289" x2="1376" y2="289" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1376" y1="286" x2="1256" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1062" y1="873" x2="1062" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="1073" x2="1065" y2="873" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1124" y1="289" x2="1256" y2="289" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1256" y1="286" x2="1124" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3158" y1="1836" x2="3158" y2="1919" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3161" y1="1919" x2="3161" y2="1836" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2544" y1="1070" x2="2541" y2="1072" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2540" y1="1070" x2="2538" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2003" y1="1070" x2="2001" y2="1072" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2000" y1="1070" x2="1998" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="733" y1="1070" x2="730" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1543" y1="993" x2="1545" y2="995" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="515" x2="1063" y2="513" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1545" y1="992" x2="1542" y2="990" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1062" y1="510" x2="1065" y2="512" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1640" y1="1071" x2="1638" y2="1073" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="736" y1="1070" x2="734" y2="1072" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="448" y1="1070" x2="445" y2="1072" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1056" y1="1073" x2="1059" y2="1070" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2941" y1="1969" x2="2943" y2="1972" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2940" y1="2133" x2="2943" y2="2136" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1376" y1="286" x2="1373" y2="289" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="1065" y1="288" x2="1068" y2="286" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2943" y1="2184" x2="2940" y2="2181" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="2943" y1="2139" x2="2941" y2="2136" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<line x1="3161" y1="1839" x2="3159" y2="1836" stroke-width="1.0" stroke="rgb(125,125,125)" />
+<polyline points="1119,459 1119,461 1095,461 1095,456 1075,456 1075,464 1348,464 1348,438 1351,438 1351,367 1344,367 1344,459" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1882,1973 1883,1973 1883,1974 1885,1974 1885,1973 1884,1973 1884,1972 1882,1972 1882,1973 1881,1973 1881,1974 1882,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2242,1973 2243,1973 2243,1974 2245,1974 2245,1973 2244,1973 2244,1972 2242,1972 2242,1973 2241,1973 2241,1974 2242,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="802,1973 803,1973 803,1974 805,1974 805,1973 804,1973 804,1972 802,1972 802,1973 801,1973 801,1974 802,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1162,1973 1163,1973 1163,1974 1165,1974 1165,1973 1164,1973 1164,1972 1162,1972 1162,1973 1161,1973 1161,1974 1162,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1522,1973 1523,1973 1523,1974 1525,1974 1525,1973 1524,1973 1524,1972 1522,1972 1522,1973 1521,1973 1521,1974 1522,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2602,1973 2603,1973 2603,1974 2605,1974 2605,1973 2604,1973 2604,1972 2602,1972 2602,1973 2601,1973 2601,1974 2602,1974" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2940,1972 2940,1973 2938,1973 2938,1974 2940,1974 2940,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1349,578 1075,578 1075,583 1344,583 1344,627 1349,627" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1194,907 1199,907 1199,583 1194,583" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1075,907 1075,913 1265,913 1265,832 1349,832 1349,691 1344,691 1344,827 1199,827 1199,832 1260,832 1260,871 1199,871 1199,877 1260,877 1260,907" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3039,1919 3039,1926 3152,1926 3152,1919" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2950,1960 2950,1926 2999,1926 2999,1919 2944,1919 2944,1960" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1344,327 1351,327 1351,323 1379,323 1379,294 1373,294 1373,319 1344,319" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1059,1068 1059,1078 1059,1078 1059,1068" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3141,1068 3141,1078 3141,1078 3141,1068" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="444,1068 444,1078 445,1078 445,1068" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1548,1068 1548,1078 1549,1078 1549,1068" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3161,1836 3152,1836 3152,1836 3161,1836" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="459,1972 459,1948 457,1948 457,1973 482,1973 482,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1105,316 1105,461 1112,461 1112,323 1344,323 1344,316" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1156,459 1164,459 1164,424 1275,424 1275,459 1282,459 1282,417 1156,417" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1424,832 1424,825 1349,825 1349,832" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1500,825 1500,832 1533,832 1533,816 1537,816 1537,809 1526,809 1526,825" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="441,1074 441,1068 413,1068 413,1253 419,1253 419,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3172,1449 3166,1449 3166,1643 3172,1643" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3166,1253 3172,1253 3172,1068 3144,1068 3144,1074 3166,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3166,1827 3158,1827 3158,1833 3172,1833 3172,1644 3166,1644" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="419,1449 413,1449 413,1643 419,1643" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="413,1448 419,1448 419,1254 413,1254" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="441,1833 441,1827 419,1827 419,1644 413,1644 413,1833" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3166,1448 3172,1448 3172,1254 3166,1254" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3014,2110 3034,2110 3034,1981 2995,1981 2995,1926 2988,1926 2988,1987 3028,1987 3028,2104 2950,2104 2950,2110 3007,2110 3007,2154 2957,2154 2950,2161 3130,2161 3130,2154 3014,2154" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="459,1831 457,1831 457,1948 459,1948" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="804,1972 804,1973 1162,1973 1162,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1884,1972 1884,1973 2242,1973 2242,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2244,1972 2244,1973 2602,1973 2602,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="459,1831 459,1829 444,1829 444,1831" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="482,1972 482,1973 802,1973 802,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1164,1972 1164,1973 1522,1973 1522,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1524,1972 1524,1973 1882,1973 1882,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2936,1972 2936,1973 2939,1973 2939,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2896,1973 2896,1972 2604,1972 2604,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3128,1926 3128,2096 3153,2096 3153,2092 3133,2092 3133,1926" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="471,1960 471,1754 459,1754 459,1972 2896,1972 2896,1960" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1173,459 1173,558 1176,558 1435,558 1435,389 1435,387 1351,387" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1534,573 1534,1080 1535,1082 1541,1082 1542,1081 3141,1081 3141,1084 3152,1084 3152,1816 3151,1816 3150,1819 3150,1823 3153,1823 3156,1823 3158,1823 3158,2092 3153,2092 3150,2092 3150,1823 3158,1823 3159,1821 3159,1081 3160,1081 3162,1079 3166,1074 3164,1074 1544,1074 1542,1074 1542,572" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="457,1948 457,1945 457,1834 457,1831" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="802,1973 799,1973 485,1973 482,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1162,1973 1159,1973 807,1973 804,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1522,1973 1519,1973 1167,1973 1164,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1882,1973 1879,1973 1527,1973 1524,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2242,1973 2239,1973 1887,1973 1884,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2602,1973 2599,1973 2247,1973 2244,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2896,1973 2894,1973 2607,1973 2604,1973" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="482,1973 479,1973 458,1973 457,1973 457,1972 457,1951 457,1948" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1123,286 1065,286 1062,286 1062,332" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2944,2183 3126,2183 3126,2178 3125,2176 2954,2176 2951,2176 2951,1962 2951,1960 2939,1960 2936,1960 2936,1970 2937,1972 2944,1972 2944,2181 2943,2183" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1376,290 1066,290 1066,292 1066,1074 445,1074 445,1076 445,1078 429,1078 427,1078 427,1754 470,1754 470,1750 470,1748 436,1748 434,1748 434,1084 436,1084 442,1084 445,1084 445,1081 448,1081 1073,1081 1073,299 1074,297 1376,297 1376,292 1376,290" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3126,2184 2943,2184 2943,1969" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2940,1969 2940,2187 3126,2187" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1065,332 1065,289 1068,289 1123,289" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2994,2175 2992,2175 2990,2175 2988,2175" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1542,573 1536,573 1534,572" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="464,1971 463,1970 464,1968 464,1967 464,1966" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="469,1966 468,1965 468,1964 469,1962" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="457,1831 446,1831 444,1831" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2896,1966 2895,1966 2895,1968 2895,1969 2896,1970 2895,1971" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2896,1962 2895,1962 2895,1963 2895,1964 2896,1965 2895,1966" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2939,1971 2937,1970 2939,1967 2938,1966 2936,1967" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2944,2182 2945,2181 2945,2180 2944,2178" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3126,2178 3125,2179 3124,2181 3124,2182 3126,2182" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2944,1973 2945,1973 2947,1974 2948,1972" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="462,1754 462,1756 464,1755 466,1754" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="466,1754 467,1756 469,1755 471,1755" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="470,1961 469,1960 467,1960 467,1961 468,1962 469,1961" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="466,1962 466,1963 464,1964 463,1964 462,1963 463,1962 464,1963 465,1963 466,1964" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="465,1966 464,1965 463,1964 462,1965 462,1967 464,1966 465,1966" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2951,1961 2950,1962 2951,1965" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2951,1966 2950,1967 2951,1970" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2939,1966 2937,1965 2939,1962 2938,1961 2936,1962" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1343,627 1343,629 1350,629 1350,627" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1343,691 1343,689 1350,689 1350,691" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1342,692 1342,659 1343,659 1343,692" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1342,626 1342,658 1343,658 1343,626" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1344,330 1344,329 1308,329 1308,330" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3002,1926 3001,1926 3001,1962 3002,1962" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="2933,1974 2934,1974 2934,2010 2933,2010" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1497,788 1498,788 1498,824 1497,824" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1428,824 1426,824 1426,788 1428,788" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3144,1074 3144,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3141,1072 3141,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1062,1074 1062,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1059,1072 1059,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="444,1829 444,1827" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="441,1827 441,1829" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="444,1074 444,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="441,1072 441,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3158,1836 3160,1836" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3160,1833 3158,1833" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1548,1074 1548,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1545,1072 1545,1074" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3144,1072 3143,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3142,1072 3142,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1062,1072 1061,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1060,1072 1060,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1547,1072 1547,1072 1546,1072 1547,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="443,1828 444,1829" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3160,1835 3159,1835 3160,1835 3160,1834" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="442,1829 442,1828" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="444,1072 443,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="442,1072 442,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3160,1835 3159,1835" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3159,1834 3160,1833" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="443,1072 443,1072 443,1072 442,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1548,1072 1547,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1546,1072 1546,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3143,1072 3143,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1061,1072 1061,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="442,1829 442,1828 442,1829 443,1829" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="443,1829 443,1828" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="1061,1072 1060,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3160,1834 3159,1834" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<polyline points="3143,1072 3142,1072" stroke-width="1.0" stroke="rgb(125,125,125)" fill="none" />
+<circle cx="140" cy="2585" r="" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 1344,365 A 35.99,35.99 0 0 1 1308,329" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 3037,1926 A 35.99,35.99 0 0 1 3001,1962" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 2898,1974 A 35.99,35.99 0 0 0 2934,2010" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 1462,824 A 36.00,36.00 0 0 1 1498,788" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<path d="M 1462,824 A 36.00,36.00 0 0 0 1426,788" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<line x1="140" y1="2585" x2="140" y2="2585" stroke-width="1.0" stroke="rgb(225,225,225)" />
+<polyline points="1543,513 1543,571 1544,571 1544,513" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1436,288 1378,288 1378,289 1436,289" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1544,453 1543,453 1543,512 1544,512" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1543,452 1544,452 1544,393 1543,393" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1543,392 1544,392 1544,333 1543,333" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1496,289 1496,288 1436,288 1436,289" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1496,288 1496,289 1542,289 1542,288" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="1544,289 1543,289 1543,332 1544,332" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3161,2154 3160,2154 3160,2185 3161,2185" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3159,2186 3159,2185 3128,2185 3128,2186" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
+<polyline points="3161,2095 3160,2095 3160,2152 3161,2152" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
 </svg>
