@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="3549" height="3208">style="background-color:rgb(none)">
-<polygon id="BRDW0D_BR-D02" points="1355,1770 1355,1409 1483,1409 1483,1770" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-D01" points="1067,1578 1073,1568 1179,1568 1179,1316 1355,1316 1355,1639 1067,1639" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-02.00D" points="1073,1456 1179,1456 1179,1346 1073,1346" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-03.00D" points="1179,1568 1073,1568 1073,1456 1179,1456" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-11.00D" points="1075,952 1351,952 1351,1120 1075,1120" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-01.00D" points="1179,1233 1073,1233 1073,1346 1179,1346" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-D10" points="745,952 745,405 757,405 757,390 979,391 979,525 1541,525 1913,623 1913,945 2453,945 2472,832 3119,1230 3119,2392 2446,2392 2446,2820 1070,2820 1067,1639 1355,1639 1354,2367 1635,2367 1635,1510 1483,1510 1483,1409 1355,1409 1355,1316 1179,1316 1179,1233 1073,1233 1075,1120 1351,1120 1351,952 1075,952 1073,1228 944,1228 944,1578 1067,1578 1070,2820 445,2820 445,1126 427,1126 427,964 733,964 733,976 757,976 757,952" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-D00" points="944,1578 1067,1578 1073,1568 1073,1228 944,1228" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_?5" points="979,391 1759,393 2472,832 2453,945 1913,945 1913,623 1541,525 979,525" stroke="rgb(none)" stroke-width="0.1" fill="none" />
-<polygon id="BRDW0D_BR-D03" points="1354,2175 1483,2175 1483,1510 1635,1510 1635,2367 1354,2367" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-D02" points="1355,1770 1355,1409 1483,1409 1483,1770 1355,1770" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-D01" points="1067,1578 1073,1568 1179,1568 1179,1316 1355,1316 1355,1639 1067,1639 1067,1578" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-02.00D" points="1073,1456 1179,1456 1179,1346 1073,1346 1073,1456" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-03.00D" points="1179,1568 1073,1568 1073,1456 1179,1456 1179,1568" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-11.00D" points="1075,952 1351,952 1351,1120 1075,1120 1075,952" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-01.00D" points="1179,1233 1073,1233 1073,1346 1179,1346 1179,1233" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-D10" points="745,952 745,405 757,405 757,390 979,391 979,525 1541,525 1913,623 1913,945 2453,945 2472,832 3119,1230 3119,2392 2446,2392 2446,2820 1070,2820 1067,1639 1355,1639 1354,2367 1635,2367 1635,1510 1483,1510 1483,1409 1355,1409 1355,1316 1179,1316 1179,1233 1073,1233 1075,1120 1351,1120 1351,952 1075,952 1073,1228 944,1228 944,1578 1067,1578 1070,2820 445,2820 445,1126 427,1126 427,964 733,964 733,976 757,976 757,952 745,952" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-D00" points="944,1578 1067,1578 1073,1568 1073,1228 944,1228 944,1578" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_?5" points="979,391 1759,393 2472,832 2453,945 1913,945 1913,623 1541,525 979,525 979,391" stroke="rgb(none)" stroke-width="0.1" fill="none" />
+<polygon id="BRDW0D_BR-D03" points="1354,2175 1483,2175 1483,1510 1635,1510 1635,2367 1354,2367 1354,2175" stroke="rgb(none)" stroke-width="0.1" fill="none" />
 <circle cx="-2200" cy="4432" r="" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
 <path d="M 2164,2197 A 11.99,11.99 0 0 0 2176,2209" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
 <path d="M 1868,2626 A 11.99,11.99 0 0 0 1880,2614" stroke-width="1.0" stroke="rgb(225,225,225)" fill="none" />
